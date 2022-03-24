@@ -1,0 +1,22 @@
+<users>
+    <user>
+        <name>Tom</name>
+        <phone>123456</phone>
+        <password>password1</password>
+    </user>
+    <user>
+        <name>Alice</name>
+        <phone>234567</phone>
+        <password>password2</password>
+    </user>
+    <user>
+        <name>Bob</name>
+        <phone>345678</phone>
+        <password>password3</password>
+    </user>
+    <user>
+        <name>John</name>
+        <phone>456789</phone>
+        <password>password4</password>
+    </user>
+</users>
